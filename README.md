@@ -11,10 +11,10 @@ Available Lessons
 * [Lesson 1. Structures](example_001.structures)
 * [Lesson 2. Embedding](example_002.embedding)
 * [Lesson 3. Interfaces](example_003.interfaces)
+* [Lesson 4. Embedding interfaces](example_004.embedding_interfaces)
 
 TODOs
 -----
 
-* Lesson 4. Interface embedding
 * Lesson 5. Reflection
 * Lesson 6. Tags
