@@ -12,9 +12,10 @@ Available Lessons
 * [Lesson 2. Embedding](example_002.embedding)
 * [Lesson 3. Interfaces](example_003.interfaces)
 * [Lesson 4. Embedding interfaces](example_004.embedding_interfaces)
+* [Lesson 5. Reflection](example_005.reflection)
+* [Lesson 6. Reflection: Type processing](example_005.reflection.type_processing)
 
 TODOs
 -----
 
-* Lesson 5. Reflection
-* Lesson 6. Tags
+* Lesson 7. Tags
