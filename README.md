@@ -18,4 +18,5 @@ Available Lessons
 TODOs
 -----
 
+* Lesson 0. Error handling
 * Lesson 7. Tags
