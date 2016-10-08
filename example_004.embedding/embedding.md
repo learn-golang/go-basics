@@ -49,4 +49,4 @@ Answers are:
     * rewrite AdminUser structure to have a dedicated data field which declaration follows standard composition
     * rewrite Append function to accept more generic type rather than User
 
-And more generic type here is [Go interface](../example_003.interfaces/interfaces.md)!
+And more generic type here is [Go interface](../example_005.interfaces/interfaces.md)!

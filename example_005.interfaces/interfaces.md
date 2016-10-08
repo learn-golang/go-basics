@@ -37,7 +37,7 @@ Actual differences between `User` (or `AdminUser`) and `UserInterface` are:
 As it can be seen, interface and structure declarations are slightly different and this difference comes from interface disability to hold data field, so it was necessary to have a function that will be able to modify data field of actual structure that follows corresponding interface.
 
 Now let's go back to our example. [Here](users/interfaces.go) you can find interface type declaration.
-Actual differences between [Example 2](../example_002.embedding/main.go) and [Example 3](main.go) is hidden in `processor.go` files.
+Actual differences between [Example 4](../example_004.embedding/main.go) and [Example 4](main.go) is hidden in `processor.go` files.
 
 User list modifications
 -----------------------
