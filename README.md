@@ -16,10 +16,15 @@ Available Lessons
 * [Lesson 6. Embedding interfaces](example_006.embedding_interfaces)
 * [Lesson 7. Reflection](example_007.reflection)
 * [Lesson 8. Reflection: Type processing](example_008.reflection.type_processing)
+* [Lesson 9. Tags](example_009.tags)
+
 
 TODOs
 -----
 
-* Lesson 9. Tags
-* Lesson 10. Concurrency
-* Lesson 11. Channels
+
+* Lesson 10. Concurrency. Goroutines
+* Lesson 11. Concurrency. Wait groups
+* Lesson 12. Concurrency. Atomic operations
+* Lesson 13. Concurrency. Mutexes
+* Lesson 14. Concurrency. Channels
